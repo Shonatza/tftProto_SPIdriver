@@ -23,19 +23,19 @@ Included Makefile to ease compilation.
 
 **Print Screen**
 
-![Video Demo](./demos/DEMO2.1_imprimir_pantalla.MOV)
+![Video Demo](./demos/print_screen.mp4)
 
 **Print Rectangle**
 
-![Video Demo](./demos/DEMO2.2_pintar_rectangulo.MOV)
+![Video Demo](./demos/print_rectangle.mp4)
 
 **Print String**
 
-![Video Demo](./demos/DEMO2.3_pintar_string.MOV)
+![Video Demo](./demos/print_string.mp4)
 
 **Print Image**
 
-![Video Demo](./demos/DEMO2.4_pintar_imagen.MOV)
+![Video Demo](./demos/print_image.mp4)
 
 ## Acknowledgments
 
