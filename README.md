@@ -23,19 +23,19 @@ Included Makefile to ease compilation.
 
 **Print Screen**
 
-https://github.com/user-attachments/assets/7848a75a-4c1c-4deb-b471-14c843e7ff7e
+https://github.com/user-attachments/assets/c52d8b04-e28b-4300-b853-b5fb74386f30
 
 **Print Rectangle**
 
-https://github.com/user-attachments/assets/e5514e44-0ca7-478c-9f8d-efdcc23ec931
+https://github.com/user-attachments/assets/128e6174-0826-4e28-9c20-7fe4bb7ed664
 
 **Print String**
 
-https://github.com/user-attachments/assets/8e1a43d8-53d2-44b0-9966-da5c66cf4e1b
+https://github.com/user-attachments/assets/bb51b6d5-d94d-4a55-bf27-600b0f6edc60
 
 **Print Image**
 
-https://github.com/user-attachments/assets/17c82833-158e-4c04-ba7d-2d0315025625
+https://github.com/user-attachments/assets/3f6621e1-d722-42c6-9e17-c4df9ed288a5
 
 ## Acknowledgments
 
