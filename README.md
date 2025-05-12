@@ -27,15 +27,15 @@ https://github.com/user-attachments/assets/b824e576-e872-4473-82af-d47429e668b2
 
 **Print Rectangle**
 
-<video src="./demos/print_rectangle.mp4" controls width="500"></video>
+https://github.com/user-attachments/assets/d7ed3630-1d18-4328-8e58-0ea0f54d61e0
 
 **Print String**
 
-<video src="./demos/print_string.mp4" controls width="500"></video>
+https://github.com/user-attachments/assets/d6223464-fe39-4dbf-a79e-4ff8bdc1837b
 
 **Print Image**
 
-<video src="./demos/print_image.mp4" controls width="500"></video>
+https://github.com/user-attachments/assets/7404c16d-b8a4-4be4-9b8f-58154abe80cb
 
 ## Acknowledgments
 
