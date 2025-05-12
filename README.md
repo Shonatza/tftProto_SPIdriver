@@ -19,6 +19,23 @@ Project developed as part of the **DSBM** (Design of Systems Based on Microcontr
 
 Included Makefile to ease compilation.
 
+## Demos
+
+**Print Screen**
+
+![Video Demo](./demos/DEMO2.1_imprimir_pantalla.MOV)
+
+**Print Rectangle**
+
+![Video Demo](./demos/DEMO2.2_pintar_rectangulo.MOV)
+
+**Print String**
+
+![Video Demo](./demos/DEMO2.3_pintar_string.MOV)
+
+**Print Image**
+
+![Video Demo](./demos/DEMO2.4_pintar_imagen.MOV)
 
 ## Acknowledgments
 
