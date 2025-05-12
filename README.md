@@ -23,7 +23,7 @@ Included Makefile to ease compilation.
 
 **Print Screen**
 
-<video src="./demos/print_screen.mp4" controls width="500"></video>
+https://github.com/user-attachments/assets/b824e576-e872-4473-82af-d47429e668b2
 
 **Print Rectangle**
 
