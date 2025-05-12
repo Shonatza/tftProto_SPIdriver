@@ -23,19 +23,19 @@ Included Makefile to ease compilation.
 
 **Print Screen**
 
-![Video Demo](./demos/print_screen.mp4)
+<video src="./demos/print_screen.mp4" controls width="500"></video>
 
 **Print Rectangle**
 
-![Video Demo](./demos/print_rectangle.mp4)
+<video src="./demos/print_rectangle.mp4" controls width="500"></video>
 
 **Print String**
 
-![Video Demo](./demos/print_string.mp4)
+<video src="./demos/print_string.mp4" controls width="500"></video>
 
 **Print Image**
 
-![Video Demo](./demos/print_image.mp4)
+<video src="./demos/print_image.mp4" controls width="500"></video>
 
 ## Acknowledgments
 
